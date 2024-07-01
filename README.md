@@ -5,11 +5,17 @@ Build a decision tree classifier to predict whether a customer will purchase a p
 To build a decision tree classifier to predict whether a customer will purchase a product or service based on the Bank Marketing dataset, follow these steps:
 
 Load and Explore the Dataset: Download the dataset and explore its structure.
+
 Preprocess the Data: Handle missing values, encode categorical variables, and scale numerical features.
+
 Split the Data: Divide the dataset into training and testing sets.
+
 Build and Train the Model: Use a decision tree classifier.
+
 Evaluate the Model: Assess the performance of the model using appropriate metrics.
+
 Tune the Model: Optimize the hyperparameters for better performance.
+
 Here are the key steps to accomplish this task:
 
 1.Data Preparation:
