@@ -15,14 +15,17 @@ Here are the key steps to accomplish this task:
 1.Data Preparation:
 Load the dataset (you can download it from the provided link).
 Explore the features (demographic and behavioral data) and the target variable (‘y’ indicating subscription to a term deposit).
+
 2.Data Cleaning and Preprocessing:
 Handle missing values (luckily, this dataset has no missing values).
 Encode categorical variables (e.g., job type, marital status, education) into numeric format.
 Split the data into training and testing sets.
+
 3.Decision Tree Classifier:
 Initialize a decision tree classifier (you can use libraries like Scikit-learn).
 Train the model using the training data.
 Evaluate the model’s performance on the testing data (accuracy, precision, recall, etc.).
+
 4.Visualization:
 Visualize the decision tree to understand its splits and rules.
 Identify important features that contribute to the prediction.
